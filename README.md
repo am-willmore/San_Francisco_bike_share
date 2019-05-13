@@ -7,3 +7,6 @@ I aggregated trip data to get monthly averages.  The bike usage picked up quickl
 
 bike_availability_by_station.pdf
 This analysis used data available about the status of each station where bikes could be loaned out or returned.  I looked at the average bike availability for each station.  Some places regularly run out of bikes, whereas others do not.  The places with the highest demand are in San Francisco whereas stations outside of the city such as San Jose or Redwood City are less likely to run out of bikes.
+
+Data from Kaggle:
+https://www.kaggle.com/benhamner/sf-bay-area-bike-share
